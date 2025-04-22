@@ -24,28 +24,29 @@ A full-featured bus booking engine built with **FastAPI**, **SQLAlchemy**, and *
 ```
 git clone https://github.com/surya0210/bujji-bus.git
 cd bujji-bus
+```
 
 ### 2. Setup VM
 ```
 python3 -m venv bujji_app source bujji_app/bin/activate # On Windows use `bujji_app\Scripts\activate`
-
+```
 
 ### 3. Install Requirements
 ```
 pip3 freeze > requirements.txt
-
+```
 
 ### 4.Initalize the database
 ```
 python3 build_db.py
-
+```
 ### 5.Run the app
 ```
 python3 run_server.py
-
+```
 ###6. API Docs
 ```
 Redoc: http://0.0.0.0:8001/bujji-app-api-redoc
 Swagger:http://0.0.0.0:8001/bujji-app-api
 
-
+```
