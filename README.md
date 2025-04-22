@@ -1,5 +1,5 @@
 # bujji-bus
-# Bujji Bus Booking Engine
+
 A full-featured bus booking engine built with **FastAPI**, **SQLAlchemy**, and **SQLite**, supporting:
 - Operator login & JWT authentication
 - Bus creation & seat mapping
