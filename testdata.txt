@@ -1,0 +1,181 @@
+{
+  "name": "Sri Kaleswari Travels",
+  "email": "srikaleswari@gmail.com",
+  "password": "Krishna"
+}
+
+{
+  "id": "e00fdeb2-e8a7-4eba-b67c-6c18f55236d1",
+  "name": "Sri Kaleswari Travels",
+  "email": "srikaleswari@gmail.com",
+  "is_active": false,
+  "created_at": "2025-04-22"
+}
+
+{
+  "operator_id": "e00fdeb2-e8a7-4eba-b67c-6c18f55236d1",
+  "id": "5628f9b8-dd02-47f8-80f5-2ccaf7685038",
+  "created_at": "2025-04-22T00:13:37.872028"
+}
+
+
+
+{
+  "name": "Sri krishna Travels",
+  "email": "srikrishna@gmail.com",
+  "password": "Krishna"
+}
+
+
+{
+  "id": "2ca0a276-071a-4236-8844-44604870a9d6",
+  "name": "Sri krishna Travels",
+  "email": "srikrishna@gmail.com",
+  "is_active": false,
+  "created_at": "2025-04-21"
+}
+{
+  "bus_number": "AP 39 KA 9933",
+  "total_seats": 20,
+  "bus_type": "Sleeper",
+  "model": "Airavat",
+  "has_wifi": true,
+  "has_ac": true,
+  "has_toilet": true,
+  "last_service_date": "2025-04-20T07:13:14.795Z",
+  "next_service_due": "2025-05-20T07:13:14.795Z",
+  "active": true
+}
+
+
+{
+  "operator_id": "2ca0a276-071a-4236-8844-44604870a9d6",
+  "id": "ab513fdb-7bf3-49e5-b08f-efed158242eb",
+  "created_at": "2025-04-21T23:56:14.601779"
+}
+
+
+
+
+{
+  "id": "fdf73853-5c85-4262-b9e2-8e13c8fe9926",
+  "name": "Sri krishna Travels",
+  "email": "srikrishna@gmail.com",
+  "is_active": false,
+  "created_at": "2025-04-21"
+}
+
+{
+  "id": "9ae5a478-dd98-48c5-a128-be3a47b3d38f",
+  "name": "Sri Kaleswari Travels",
+  "email": "srikaleswari@gmail.com",
+  "is_active": false,
+  "created_at": "2025-04-21"
+}
+
+
+[
+  {
+    "seat_number": 1,
+    "window": false,
+    "has_charging_port": false,
+    "is_reclinable": false,
+    "row_number": 0
+  },
+  {
+    "seat_number": 2,
+    "window": false,
+    "has_charging_port": false,
+    "is_reclinable": false,
+    "row_number": 0
+  },
+  {
+    "seat_number": 3,
+    "window": false,
+    "has_charging_port": false,
+    "is_reclinable": false,
+    "row_number": 0
+  }
+]
+
+
+{
+  "bus_id": "a4e519df-4ce1-46ce-b6f0-bb52dcbcb50e",
+  "operator_id": "fdf73853-5c85-4262-b9e2-8e13c8fe9926",
+  "origin": "Vijawayawada",
+  "destination": "Hyderabad",
+  "distance_km": 300,
+  "route_time": 300,
+  "is_active": true
+}
+
+
+{
+  "bus_id": "6d42a061-fe8f-4aee-b5c5-90fa7c140c4f",
+  "operator_id": "9ae5a478-dd98-48c5-a128-be3a47b3d38f",
+  "origin": "Vijayawada",
+  "destination": "Hyderabad",
+  "distance_km": 300,
+  "route_time": 300,
+  "is_active": true
+}
+
+
+{
+  "origin": "Vijayawada",
+  "destination": "Hyderabad",
+  "travel_date": "2025-04-22",
+  "ac": true,
+  "wifi": true,
+  "toilet": true,
+  "start_time_range": "",
+  "max_price": 1500,
+  "sort_by": "",
+  "page": 1,
+  "page_size": 10,
+  "include_seat_map": false,
+  "no_of_seats": 1
+}
+
+  [
+    {
+      "stop_name": "Vijayawada",
+      "stop_order": 1,
+      "arrival_time": "14:00:00.000Z",
+      "departure_time": "14:00:00.000Z",
+      "distance_from_start": 0,
+      "price": 0
+    },
+    {
+      "stop_name": "Khammam",
+      "stop_order": 2,
+      "arrival_time": "16:00:00.000Z",
+      "departure_time": "16:05:00.000Z",
+      "distance_from_start": 100,
+      "price": 100
+    },
+    {
+      "stop_name": "Surya Pet",
+      "stop_order": 3,
+      "arrival_time": "17:05:00.000Z",
+      "departure_time": "17:10:00.000Z",
+      "distance_from_start": 200,
+      "price": 300
+    },
+    {
+      "stop_name": "Uppal",
+      "stop_order": 4,
+      "arrival_time": "19:10:00.000Z",
+      "departure_time": "19:05:00.000Z",
+      "distance_from_start": 250,
+      "price": 500
+    },
+  {
+      "stop_name": "Hyderabad",
+      "stop_order": 5,
+      "arrival_time": "20:10:00.000Z",
+      "departure_time": null,
+      "distance_from_start": 300,
+      "price": 1200
+    }
+  ]
