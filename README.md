@@ -43,8 +43,7 @@ python3 build_db.py
 ### 5.Run the app
 ```
 python3 run_server.py
-```
-6. API Docs
+```6. API Docs
 ```
 Redoc: http://0.0.0.0:8001/bujji-app-api-redoc
 Swagger:http://0.0.0.0:8001/bujji-app-api
